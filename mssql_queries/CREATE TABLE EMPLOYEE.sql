@@ -19,7 +19,3 @@ INSERT INTO EMPLOYEE VALUES (0006, 'Mahesh', 'GNoida','9851678465', '1238', 'Sal
 INSERT INTO EMPLOYEE VALUES (0007, 'Chaman', 'BSBS','9856723465', '7634', 'D10','215000');
 
 select * from EMPLOYEE;
-
-update EMPLOYEE SET Emp_Add='Mathura' where Emp_No=5;
-
-select * from EMPLOYEE;
